@@ -9,4 +9,4 @@
 
 - [プライバシーポリシーを見る](./index.html)
 
-> お問い合わせ（担当: ふぁいる）: <a href="mailto:azuma.mylabo@gmail.com">azuma.mylabo@gmail.com</a>
+> お問い合わせ（担当: Ryuusuke-Azuma）: <a href="mailto:azuma.mylabo@gmail.com">azuma.mylabo@gmail.com</a>
